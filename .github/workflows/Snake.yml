@@ -30,10 +30,10 @@ jobs:
 
       # 변경사항 push
       - name: Push changes
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.JANGBAR_TOKEN }}
-          branch: main
+          branch: master
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
