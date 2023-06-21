@@ -39,6 +39,13 @@
 
 <br/>
 
+# 📬Contacts📬  
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jangbar.tistory.com/)](https://jangbar.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gohshow@gmail.com)](mailto:gohshow@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:atta369@naver.com)](mailto:atta369@naver.com)
+
+<br/>
+
 # 🌱Grass🌱
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
