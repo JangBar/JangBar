@@ -2,7 +2,7 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats-flax-nine-40.vercel.app/api?username=JangBar&show_icons=true&theme=transparent)                        
+![Anurag's GitHub stats](https://github-readme-stats-flax-nine-40.vercel.app/api?username=JangBar&show_icons=true&theme=transparent) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang_bar)](https://solved.ac/jang_bar/)
 <br/>
 
