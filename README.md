@@ -42,7 +42,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:atta369@naver.com)](mailto:atta369@naver.com)
 
 <br/>
-
+<img src="https://github.com/JangBar/JangBar/blob/output/github-contribution-grid-snake.svg"/>
 # 🌱Grass🌱
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
