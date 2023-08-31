@@ -49,3 +49,7 @@
 <br/>
 
 <img src="https://github.com/JangBar/JangBar/blob/output/github-contribution-grid-snake.svg"/>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
