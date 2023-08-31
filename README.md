@@ -1,9 +1,5 @@
 # JANG O HYEOK 😁
 <br/>
-[![JangBar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JangBar)]
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang_bar)](https://solved.ac/jang_bar/)
 
