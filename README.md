@@ -3,6 +3,7 @@
 <br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jang_bar)](https://solved.ac/jang_bar/)
+
 <br/>
 
 # ⚒️Skills⚒️
