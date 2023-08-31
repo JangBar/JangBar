@@ -47,4 +47,3 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-![snake gif](https://github.com/JangBar/JangBar/blob/output/github-contribution-grid-snake.svg)
