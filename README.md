@@ -1,5 +1,6 @@
 # JANG O HYEOK 😁
 <br/>
+[![JangBar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JangBar)]
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
